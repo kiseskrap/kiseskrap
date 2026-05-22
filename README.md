@@ -1,17 +1,24 @@
-### Hi there 👋
+# Sesik Park 👋
 
-<!--
-**kiseskrap/kiseskrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Leader building AI workflows, automation systems, and scalable operational tools.
 
-Here are some ideas to get you started:
+## Current Focus
+- AI-assisted engineering workflows
+- Automation systems with AWS and Apps Script
+- SaaS experimentation
+- Technical writing and content systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![kiseskrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiseskrap&theme=gruvbox_light&show_icons=true)
+## Projects
+- Famblend
+- InsightDad
+- AI Workflow Lab
+- Automation Scripts
+
+## Stack
+TypeScript · React · Next.js  
+AWS · Lambda · MySQL  
+GitHub Actions · OpenAI · Claude
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiseskrap&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiseskrap&layout=compact)
