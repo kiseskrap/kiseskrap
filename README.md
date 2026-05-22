@@ -1,20 +1,89 @@
 # Sesik Park 👋
 
-Engineering Leader building AI workflows, automation systems, and scalable operational tools.
+Engineering Leader building AI workflows, automation systems, and scalable digital products.
+
+Focused on operational excellence, AI-assisted development workflows, and execution-oriented engineering culture.
+
+---
 
 ## Current Focus
 
-- AI-assisted engineering workflows
-- Automation systems with AWS and Apps Script
+- AI workflow systems
+- Engineering automation
 - SaaS experimentation
-- Technical writing and content systems
+- Technical leadership
+- Operational tooling
+- Content and publishing systems
+
+---
+
+## Featured Projects
+
+### Famblend
+Group-based mission, routine, and schedule platform designed for collaborative growth.
+
+### AI Workflow Lab
+Experiments with Claude Code, Codex, agents, prompts, and AI-assisted engineering workflows.
+
+### Automation Systems
+Operational automation using AWS Lambda, Google Apps Script, GitHub Actions, and AI APIs.
+
+### Engineering Notes
+Documentation for architecture decisions, operational systems, automation patterns, and technical leadership.
+
+---
 
 ## Stack
 
-TypeScript · React · Next.js  
-AWS · Lambda · MySQL  
-GitHub Actions · OpenAI · Claude  
+### Frontend
+TypeScript · React · Next.js
 
-## GitHub Stats
+### Backend & Infra
+Node.js · AWS Lambda · MySQL · Firebase
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiseskrap&theme=github_dark)
+### Automation & AI
+GitHub Actions · Google Apps Script · OpenAI · Claude · Gemini
+
+### Collaboration
+GitHub Projects · Notion · Agile Sprint Operations
+
+---
+
+## Engineering Interests
+
+- AI-assisted software engineering
+- Automation architecture
+- Developer productivity systems
+- Scalable operational workflows
+- Technical leadership
+- SaaS business systems
+
+---
+
+## Writing & Documentation
+
+I document:
+- engineering decisions
+- operational systems
+- AI workflow experiments
+- automation architectures
+- execution strategies
+- lessons learned from real-world projects
+
+---
+
+## Philosophy
+
+Build systems that scale execution, not complexity.
+
+---
+
+## GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiseskrap&layout=compact&theme=github_dark)
+
+---
+
+## Connect
+
+- GitHub: https://github.com/kiseskrap
