@@ -62,13 +62,13 @@ GitHub Projects · Notion · Agile Sprint Operations
 
 ## Systems & Workflows
 
-I build and organize:
+I build and maintain:
 - AI-assisted engineering workflows
 - operational automation systems
 - reusable development templates
 - GitHub Actions pipelines
 - scalable project structures
-- engineering operation tooling
+- engineering tooling and processes
 
 ---
 
