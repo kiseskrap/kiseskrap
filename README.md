@@ -60,15 +60,15 @@ GitHub Projects · Notion · Agile Sprint Operations
 
 ---
 
-## Writing & Documentation
+## Systems & Workflows
 
-I document:
-- engineering decisions
-- operational systems
-- AI workflow experiments
-- automation architectures
-- execution strategies
-- lessons learned from real-world projects
+I build and organize:
+- AI-assisted engineering workflows
+- operational automation systems
+- reusable development templates
+- GitHub Actions pipelines
+- scalable project structures
+- engineering operation tooling
 
 ---
 
