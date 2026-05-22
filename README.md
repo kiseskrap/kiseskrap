@@ -78,12 +78,6 @@ Build systems that scale execution, not complexity.
 
 ---
 
-## GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiseskrap&layout=compact&theme=github_dark)
-
----
-
 ## Connect
 
 - GitHub: https://github.com/kiseskrap
